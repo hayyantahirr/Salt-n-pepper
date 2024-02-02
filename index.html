@@ -16,13 +16,19 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap"
       rel="stylesheet"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
     <div class="container">
       <!-- navbar started  -->
 
-      <header class="d-flex justify-around align-center mt-1 wrap">
+      <header class="d-flex justify-around align-center mt-1 wrap header">
         <div>
           <img class="header-logo" src="./assets/logo.webp" alt="logo" />
         </div>
@@ -38,15 +44,60 @@
         </div>
       </header>
       <!-- navbar ended -->
-<!-- carousel -->
+      <!-- carousel -->
       <main>
-        <img
-          src="./Assets/carousel.webp"
-          alt="carousel"
-          class="img-carousel"
-        />
+        <img src="./Assets/carousel.webp" alt="carousel" class="img-carousel" />
       </main>
       <!-- carousel end -->
+      <div class="head-aft-car">
+        <h2 class="d-flex text-center justify-center">
+          Welcome to Salt'n pepper
+        </h2>
+        <h2 class="d-flex text-center justify-center">
+          Restraunts! Our Brands
+        </h2>
+        <p class="sub-head-aft-car text-center justify-center">
+          Please click our brands below for further information, reservations or
+          to order online!
+        </p>
+      </div>
+      <!-- three cards after carousel -->
+      <div class="wrap d-flex justify-around " >
+        <div class="rest-btn align-center">
+          <img
+            src="./Assets/salt'n pepper restaraunt.webp"
+            alt=""
+            class="img-card-bg"
+          />
+          <button class="btn-1">order now</button>
+        </div>
+        <div class="">
+          <img
+            src="./Assets/salt'n pepper express.webp"
+            alt=""
+            class="img-card-bg pointer"
+          />
+          <button class="btn-1 pointer">order now</button>
+        </div>
+        <div class="">
+          <img
+            src="./Assets/salt'n pepper village.webp"
+            alt=""
+            class="img-card-bg pointer"
+          /><button class="btn-1 pointer">order now</button>
+        </div>
+      </div>
+      <div class="franchise-main-div">
+        <div class="franchise-heading text-center">Salt'n pepper</div>
+        <div class="text-center franchise-subheading">Restraunt Franchises</div>
+        <div class="text-center ">
+          <p class="another-subheading">
+            Each of our franchises are individually managed. For further
+            details, kindly contact them directly.
+          </p>
+        </div>
+        
+      </div>
     </div>
   </body>
 </html>

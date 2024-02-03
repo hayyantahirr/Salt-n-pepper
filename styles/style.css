@@ -99,125 +99,160 @@ html {
   font-size: 2rem;
   opacity: 0.6;
 }
-.city-franchise-name{
-    color: #ed1c24;
-    font-size: 1.6rem;
-    letter-spacing: 7px;
-    text-align: left;
+.city-franchise-name {
+  color: #ed1c24;
+  font-size: 1.6rem;
+  letter-spacing: 7px;
+  text-align: left;
 }
-.rest-name{
-    font-size: 3.2rem;
+.rest-name {
+  font-size: 3.2rem;
 }
-.address{
-    font-size: 1.75rem;
-    opacity: 0.6;
-
+.address {
+  font-size: 1.75rem;
+  opacity: 0.6;
 }
 .btn-2 {
-    display: block;
-    margin-top: 51px;
-    margin-left: 0px;
-    width: 178px;
-    height: 50px;
-    background-color: #000000;
-    color: #ffffff;
-    border-radius: 99px;
-    border: 1px solid #ffffff;
+  display: block;
+  margin-top: 51px;
+  margin-left: 0px;
+  width: 178px;
+  height: 50px;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 99px;
+  border: 1px solid #ffffff;
 }
-.franchise-card-1{
-    margin-top: 48px;
+.franchise-card-1 {
+  margin-top: 48px;
 }
-.img-of-islamabad{
-    margin-top: 48px;
-    border-radius: 3px;
-    width: 100%;
+.img-of-islamabad {
+  margin-top: 48px;
+  border-radius: 3px;
+  width: 100%;
 }
-.location{
-    margin-left: 20px;
-    margin-right: 5px;
-    opacity: 0.6;
+.location {
+  margin-left: 20px;
+  margin-right: 5px;
+  opacity: 0.6;
 }
-.phone{
-    margin-left: 20px;
-    margin-right: 5px;
-    opacity: 0.6;
+.phone {
+  margin-left: 20px;
+  margin-right: 5px;
+  opacity: 0.6;
 }
 /* franchise-end */
 /* express franchise start */
-.express-franchise-img{
-width: 70%;
-border-radius: 3px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-margin-top: 30px;
+.express-franchise-img {
+  width: 70%;
+  border-radius: 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.express-franchise {
+  /* margin: 30px; */
+  /* display: flex; */
+  width: 30%;
+}
+.city-express-franchise-name {
+  display: block;
+  color: #ed1c24;
+  font-size: 1.6rem;
+  letter-spacing: 7px;
+  text-align: center;
+  /* padding: 90px; */
+  margin: 30px;
 
+  /* padding-right:150px ; */
 }
-.express-franchise{
-    /* margin: 30px; */
-    /* display: flex; */
-    width: 30%;
-    
+.heading-express-all {
+  font-size: 2.4rem;
 }
-.city-express-franchise-name{
-    display: block;
-    color: #ed1c24;
-    font-size: 1.6rem;
-    letter-spacing: 7px;
-    text-align: center;
-    /* padding: 90px; */
-    margin: 30px;
-    
-    /* padding-right:150px ; */
+.heading-express {
+  padding-right: 10px;
 }
-.heading-express-all{
-   font-size: 2.4rem;
-
+.address-express {
+  font-size: 1.7rem;
 }
-.heading-express{
-    padding-right: 10px;
-}
-.address-express{
-    font-size: 1.7rem;
-}
-.directions{
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
+.directions {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* express franchise ended */
-.franchise-village{
-    background-color: #ffffff0f;
-    
-
+/* village franchise start */
+.franchise-village {
+  background-color: #ffffff0f;
 }
-.image-village{
-    width: 50%;
-    margin-top: 32px;
+.image-village {
+  width: 50%;
+  margin-top: 32px;
 }
-.city-vilage-franchise-name{
-    color: #ed1c24;
-    font-size: 1.6rem;
-    letter-spacing: 7px;
-    text-align: left;
-    display: block;
-    margin-top: auto;
+.city-vilage-franchise-name {
+  color: #ed1c24;
+  font-size: 1.6rem;
+  letter-spacing: 7px;
+  text-align: left;
+  display: block;
+  margin-top: auto;
 }
 .btn-3 {
-    display: block;
-    margin-top: 51px;
-    margin-left: 0px;
-    width: 178px;
-    height: 50px;
-    background-color: #28a745;
-    color: #ffffff;
-    border-radius: 99px;
-    /* border: 1px solid #ffffff; */
-    border: 0px;
+  display: block;
+  margin-top: 51px;
+  margin-left: 0px;
+  width: 178px;
+  height: 50px;
+  background-color: #28a745;
+  color: #ffffff;
+  border-radius: 99px;
+  /* border: 1px solid #ffffff; */
+  border: 0px;
 }
-.img-des-vilage{
-    width: 50%;
+.img-des-vilage {
+  width: 50%;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/* village franchise ended */
+.franchise-subheading-span {
+  font-size: 2.5rem;
+  font-family: "Noto Serif TC", serif;
+  font-weight: bold;
+}
+.opening-soon{
+color: #ed1c55;
+
+  font-size: 1rem;
+  letter-spacing: 7px;
+  text-align: center;
+  margin-top: 23px;
+  
+}
+.img-locate{
+    width: 20%;
     display: block;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+}
+.saltnpepper-head{
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #000000;
+}
+.main-div-opening{
+    background-color: #ffffff;
+    width: 23.25%;
+    border-radius: 3px;
+    
+}
+.heading-express-opening{
+    font-size: 2.1rem;
+    color: #000000;
+}
+.opening-address{
+    color: #000000;
 }

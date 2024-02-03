@@ -4,7 +4,7 @@
   box-sizing: border-box;
   color: #ffffff;
   font-family: "Poppins", sans-serif;
-  border: 1px solid lightcyan;
+  /* border: 1px solid lightcyan; */
 }
 
 body {
@@ -79,7 +79,7 @@ html {
 /* brands end */
 
 /* franchises */
-.franchise-main-div {
+.franchise-restraunt-div {
   background-color: #ffffff0f;
   background-image: url(https://images-beta.tossdown.com/site/bb1bd702-431a-4f3a-a0ca-c5966a1f7985.webp);
   background-repeat: no-repeat;
@@ -99,3 +99,47 @@ html {
   font-size: 2rem;
   opacity: 0.6;
 }
+.city-franchise-name{
+    color: #ed1c24;
+    font-size: 1.6rem;
+    letter-spacing: 7px;
+    text-align: left;
+}
+.rest-name{
+    font-size: 3.2rem;
+}
+.address{
+    font-size: 1.75rem;
+    opacity: 0.6;
+
+}
+.btn-2 {
+    display: block;
+    margin-top: 51px;
+    margin-left: 0px;
+    width: 178px;
+    height: 50px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 99px;
+    border: 1px solid #ffffff;
+}
+.franchise-card-1{
+    margin-top: 48px;
+}
+.img-of-islamabad{
+    margin-top: 48px;
+    border-radius: 3px;
+    width: 100%;
+}
+.location{
+    margin-left: 20px;
+    margin-right: 5px;
+    opacity: 0.6;
+}
+.phone{
+    margin-left: 20px;
+    margin-right: 5px;
+    opacity: 0.6;
+}
+/* franchise-end */

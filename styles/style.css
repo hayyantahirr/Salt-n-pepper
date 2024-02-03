@@ -186,3 +186,38 @@ margin-top: 30px;
     margin-right:auto;
 }
 /* express franchise ended */
+.franchise-village{
+    background-color: #ffffff0f;
+    
+
+}
+.image-village{
+    width: 50%;
+    margin-top: 32px;
+}
+.city-vilage-franchise-name{
+    color: #ed1c24;
+    font-size: 1.6rem;
+    letter-spacing: 7px;
+    text-align: left;
+    display: block;
+    margin-top: auto;
+}
+.btn-3 {
+    display: block;
+    margin-top: 51px;
+    margin-left: 0px;
+    width: 178px;
+    height: 50px;
+    background-color: #28a745;
+    color: #ffffff;
+    border-radius: 99px;
+    /* border: 1px solid #ffffff; */
+    border: 0px;
+}
+.img-des-vilage{
+    width: 50%;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}

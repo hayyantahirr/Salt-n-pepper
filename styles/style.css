@@ -143,3 +143,46 @@ html {
     opacity: 0.6;
 }
 /* franchise-end */
+/* express franchise start */
+.express-franchise-img{
+width: 70%;
+border-radius: 3px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+
+}
+.express-franchise{
+    /* margin: 30px; */
+    /* display: flex; */
+    width: 30%;
+    
+}
+.city-express-franchise-name{
+    display: block;
+    color: #ed1c24;
+    font-size: 1.6rem;
+    letter-spacing: 7px;
+    text-align: center;
+    /* padding: 90px; */
+    margin: 30px;
+    
+    /* padding-right:150px ; */
+}
+.heading-express-all{
+   font-size: 2.4rem;
+
+}
+.heading-express{
+    padding-right: 10px;
+}
+.address-express{
+    font-size: 1.7rem;
+}
+.directions{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+/* express franchise ended */

@@ -51,7 +51,7 @@ html {
 .head-aft-car {
   margin-top: 70px;
   font-size: 2.4rem;
-  font-family: 400;
+  font-weight: 400;
 }
 /* carousel ended */
 /* brands */
@@ -93,7 +93,7 @@ html {
 }
 .franchise-subheading {
   font-size: 5.3rem;
-  font-family: "Noto Serif TC", serif;
+  font-family: 'Lora', serif;
   font-weight: bolder;
 }
 .another-subheading {
@@ -221,7 +221,7 @@ html {
 /* social feed */
 .franchise-subheading-span {
   font-size: 2.5rem;
-  font-family: "Noto Serif TC", serif;
+  font-family: 'Lora', serif;
   font-weight: bold;
 }
 .opening-soon {
@@ -301,7 +301,7 @@ html {
 .site-link-head {
   font-size: 2rem;
   padding-bottom: 23px;
-  font-family: "Noto Serif TC", serif;
+  font-family: 'Lora', serif;
 }
 .social-logo {
   font-size: 2.7rem;

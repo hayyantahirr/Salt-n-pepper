@@ -53,6 +53,7 @@ html {
   font-size: 2.4rem;
   font-family: 400;
 }
+/* carousel ended */
 /* brands */
 .sub-head-aft-car {
   font-size: 1.4rem;
@@ -217,42 +218,96 @@ html {
   margin-bottom: auto;
 }
 /* village franchise ended */
+/* social feed */
 .franchise-subheading-span {
   font-size: 2.5rem;
   font-family: "Noto Serif TC", serif;
   font-weight: bold;
 }
-.opening-soon{
-color: #ed1c55;
+.opening-soon {
+  color: #ed1c55;
 
   font-size: 1rem;
   letter-spacing: 7px;
   text-align: center;
   margin-top: 23px;
-  
 }
-.img-locate{
-    width: 20%;
-    display: block;
-    margin-left: auto;
-margin-right: auto;
-margin-top: 25px;
+.img-locate {
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
 }
-.saltnpepper-head{
-    font-size: 2.4rem;
-    font-weight: 600;
-    color: #000000;
+.saltnpepper-head {
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #000000;
 }
-.main-div-opening{
-    background-color: #ffffff;
-    width: 23.25%;
-    border-radius: 3px;
-    
+.main-div-opening {
+  background-color: #ffffff;
+  width: 23.25%;
+  border-radius: 3px;
 }
-.heading-express-opening{
-    font-size: 2.1rem;
-    color: #000000;
+.heading-express-opening {
+  font-size: 2.1rem;
+  color: #000000;
 }
-.opening-address{
-    color: #000000;
+.opening-address {
+  color: #000000;
 }
+.social-feed-head {
+  font-size: 3.2rem;
+}
+.social-deed-img {
+  width: 18%;
+}
+/* social feed ended */
+/* footer start */
+.footer {
+  background-color: #ffffff0f;
+  background-image: url(/Assets/s.webp);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 15%;
+}
+.info {
+  width: 15%;
+  font-size: 1.45rem;
+  margin-top: 70px;
+  margin-bottom: 55px;
+}
+
+.logo-footer {
+  width: 50%;
+}
+.term-condition {
+  padding-top: 30px;
+  opacity: 0.4;
+}
+.details {
+  opacity: 0.6;
+  width: 100%;
+  text-align: left;
+}
+.site-links {
+  list-style: none;
+}
+.foot-li {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  opacity: 0.6;
+}
+.site-link-head {
+  font-size: 2rem;
+  padding-bottom: 23px;
+  font-family: "Noto Serif TC", serif;
+}
+.social-logo {
+  font-size: 2.7rem;
+  color: #ed1c24;
+}
+.downloading-icon {
+  display: block;
+}
+/* footer ended */

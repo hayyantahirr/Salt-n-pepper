@@ -3,7 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   color: #ffffff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'PT Sans', sans-serif;
+
   /* border: 1px solid lightcyan; */
 }
 
@@ -22,6 +23,7 @@ html {
 }
 .nav-items {
   font-size: 2rem;
+  text-decoration: none;
 }
 
 .header-logo {

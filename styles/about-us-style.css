@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'PT Sans', sans-serif;
+
+    border: 1px solid lightcyan;
+  }
+  
+  body {
+    background-color: #000000;
+  }
+  
+  html {
+    font-size: 62.5%;
+  }
+  
+  /* navbar started */
+  .header {
+    align-content: space-between;
+    align-self: flex-end;
+  }
+  .nav-items {
+    font-size: 2rem;
+  }
+  
+  .header-logo {
+    width: 165px;
+  }
+  #franchise-btn {
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 20px;
+    border-radius: 25px;
+  }
+  #order-btn {
+    background-color: #ed1c24;
+    border: 0px;
+    padding: 15px 20px;
+    border-radius: 25px;
+  }
+  
+  /* navbar ended */
+.intro-div{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 65%;
+}
+.intro-head{
+  margin-top: 72px;
+  font-size: 4rem;
+  font-family: 'Lora', serif;
+}
+#intro-p-1{
+  font-size: 1.6rem;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 32px;
+}
+#intro-p-2{
+  font-size: 1.6rem;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 15px;
+}
+#intro-p-3{
+  font-size: 1.6rem;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 15px;
+}
+#intro-p-4{
+  font-size: 1.6rem;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 15px;
+}
+
+.restraunt-head{
+  margin-top: 72px;
+  font-size: 3.5rem;
+  font-family: 'Lora', serif;
+  font-weight: 250;
+}
+.restraunt-div{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 65%;
+}
+#restraunt-p{
+  font-size: 1.6rem;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 24px;
+}
+.rest-div{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  justify-content: center;
+  margin-top: 74px;
+  
+}
+.rest-desription-div{
+  width: 50%;
+
+}
+
+.rest-img{
+  width: 50%;
+}
+
+.head-rest-description{
+  font-size: 3.2rem;
+  
+}
+.rest-description{
+  font-size: 1.6rem;
+  opacity: 0.6;
+}
+
+
+

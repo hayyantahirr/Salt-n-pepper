@@ -4,8 +4,9 @@
     box-sizing: border-box;
     color: #ffffff;
     font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
 
-    border: 1px solid lightcyan;
+    /* border: 1px solid lightcyan; */
   }
   
   body {
@@ -122,6 +123,93 @@
   font-size: 1.6rem;
   opacity: 0.6;
 }
+.salt-n-pepper-logo-font{
+  font-family: 'Saira Stencil One', sans-serif;
+}
+.franchises-head{
+  font-size: 3.2rem;
+  text-align: center;
+}
 
+.rest-div{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  justify-content: center;
+  margin-top: 74px;
+  
+}
+img{
+  border-radius: 3px;
+  border: 0px;
+}
+.express-head{
+  font-size: 3.2rem;
+}
+.express-head-description{
+font-size: 1.6rem;
+margin-top: 48px;
+opacity: 0.6;
+margin-bottom: 70px;
+}
+.express-main{
+  width: 70%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 
-
+}
+.img-express{
+  width: 50%;
+}
+.express-p-1{
+  font-size: 1.5rem;
+  opacity: 0.6;
+}
+.express-p{
+  margin-top: 10px;
+  font-size: 1.5rem;
+  opacity: 0.6;
+}
+.location-express-head{
+  font-size: 3rem;
+  text-align: center;
+  font-weight: 600 !important;
+}
+.location-express-div-main{
+  background-color: #ffffff0f;
+  font-size: 1.6rem;
+  width: 70%;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.location-express-div{
+  background-color: #ffffff0f;
+  font-size: 1.6rem;
+  width: 70%;
+  border-radius: 10px;
+}
+.img-express-div{
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+}
+.express-p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.location-express-div-main-2{
+  background-color: #ffffff0f;
+  font-size: 1.6rem;
+  width: 40%;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+
+  /* border: 1px solid lightcyan; */
+}
+
+body {
+  background-color: #000000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* navbar started */
+.header {
+  align-content: space-between;
+  align-self: flex-end;
+}
+.nav-items {
+  font-size: 2rem;
+}
+
+.header-logo {
+  width: 165px;
+}
+#franchise-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+#order-btn {
+  background-color: #ed1c24;
+  border: 0px;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+
+/* navbar ended */
+.img-div {
+  width: 40%;
+}
+.publications-content-holds {
+  border: 1px solid #ffffff52;
+  
+  
+  padding: 32px 0px 40px;
+  margin-bottom: 32px;
+  
+}
+.book-img {
+  width: 80%;
+}
+.main-book-div {
+  width: 80%;
+  display: block;
+  margin-top: 78px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+}
+.availability-head{
+    font-family: 'Lora', serif;
+    font-size: 2.4rem;
+}
+.p-head{
+    font-size: 1.6rem;
+    opacity: 0.9;
+}
+.p-locate{
+    font-size: 1.4rem;
+    opacity: 0.6;
+}
+.p-number{
+    font-size: 1.4rem;
+    opacity: 0.6;
+}
+/* footer start */
+.footer {
+    background-color: #ffffff0f;
+    background-image: url(/Assets/s.webp);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 15%;
+  }
+  .info {
+    width: 15%;
+    font-size: 1.45rem;
+    margin-top: 70px;
+    margin-bottom: 55px;
+  }
+  
+  .logo-footer {
+    width: 50%;
+  }
+  .term-condition {
+    padding-top: 30px;
+    opacity: 0.4;
+  }
+  .details {
+    opacity: 0.6;
+    width: 100%;
+    text-align: left;
+  }
+  .site-links {
+    list-style: none;
+  }
+  .foot-li {
+    margin-bottom: 16px;
+    font-size: 1.4rem;
+    opacity: 0.6;
+  }
+  .site-link-head {
+    font-size: 2rem;
+    padding-bottom: 23px;
+    font-family: 'Lora', serif;
+  }
+  .social-logo {
+    font-size: 2.7rem;
+    color: #ed1c24;
+  }
+  .downloading-icon {
+    display: block;
+  }
+  /* footer ended */
+  

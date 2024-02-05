@@ -74,3 +74,9 @@
 .pointer {
   cursor: pointer;
 }
+.weight-less{
+  font-weight: 300;
+}
+.weight-more{
+  font-weight: 600;
+}

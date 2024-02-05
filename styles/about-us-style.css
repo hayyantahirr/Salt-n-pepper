@@ -1,184 +1,186 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: #ffffff;
-    font-family: 'PT Sans', sans-serif;
-    text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
 
-    /* border: 1px solid lightcyan; */
-  }
-  
-  body {
-    background-color: #000000;
-  }
-  
-  html {
-    font-size: 62.5%;
-  }
-  
-  /* navbar started */
-  .header {
-    align-content: space-between;
-    align-self: flex-end;
-  }
-  .nav-items {
-    font-size: 2rem;
-  }
-  
-  .header-logo {
-    width: 165px;
-  }
-  #franchise-btn {
-    background-color: transparent;
-    border: 1px solid #ffffff;
-    padding: 15px 20px;
-    border-radius: 25px;
-  }
-  #order-btn {
-    background-color: #ed1c24;
-    border: 0px;
-    padding: 15px 20px;
-    border-radius: 25px;
-  }
-  
-  /* navbar ended */
-.intro-div{
+  /* border: 1px solid lightcyan; */
+}
+
+body {
+  background-color: #000000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* navbar started */
+.header {
+  align-content: space-between;
+  align-self: flex-end;
+}
+.nav-items {
+  font-size: 2rem;
+}
+
+.header-logo {
+  width: 165px;
+}
+#franchise-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+#order-btn {
+  background-color: #ed1c24;
+  border: 0px;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+
+/* navbar ended */
+/* introduction started */
+.intro-div {
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 65%;
 }
-.intro-head{
+.intro-head {
   margin-top: 72px;
   font-size: 4rem;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
 }
-#intro-p-1{
+#intro-p-1 {
   font-size: 1.6rem;
   text-align: center;
   opacity: 0.6;
   margin-top: 32px;
 }
-#intro-p-2{
+#intro-p-2 {
   font-size: 1.6rem;
   text-align: center;
   opacity: 0.6;
   margin-top: 15px;
 }
-#intro-p-3{
+#intro-p-3 {
   font-size: 1.6rem;
   text-align: center;
   opacity: 0.6;
   margin-top: 15px;
 }
-#intro-p-4{
+#intro-p-4 {
   font-size: 1.6rem;
   text-align: center;
   opacity: 0.6;
   margin-top: 15px;
 }
-
-.restraunt-head{
+/* intro ended */
+/* restraunts started */
+.restraunt-head {
   margin-top: 72px;
   font-size: 3.5rem;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   font-weight: 250;
 }
-.restraunt-div{
+.restraunt-div {
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 65%;
 }
-#restraunt-p{
+#restraunt-p {
   font-size: 1.6rem;
   text-align: center;
   opacity: 0.6;
   margin-top: 24px;
 }
-.rest-div{
+.rest-div {
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
   justify-content: center;
   margin-top: 74px;
-  
 }
-.rest-desription-div{
-  width: 50%;
-
-}
-
-.rest-img{
+.rest-desription-div {
   width: 50%;
 }
 
-.head-rest-description{
+.rest-img {
+  width: 50%;
+}
+
+.head-rest-description {
   font-size: 3.2rem;
-  
 }
-.rest-description{
+.rest-description {
   font-size: 1.6rem;
   opacity: 0.6;
 }
-.salt-n-pepper-logo-font{
-  font-family: 'Saira Stencil One', sans-serif;
+.salt-n-pepper-logo-font {
+  font-family: "Saira Stencil One", sans-serif;
 }
-.franchises-head{
+/* distibutions of franchise started */
+.franchises-head {
   font-size: 3.2rem;
   text-align: center;
 }
 
-.rest-div{
+.rest-div {
   display: block;
   margin-right: auto;
   margin-left: auto;
   width: 70%;
   justify-content: center;
   margin-top: 74px;
-  
 }
-img{
+img {
   border-radius: 3px;
   border: 0px;
 }
-.express-head{
+/* distibutions of franchise started */
+/* express-intro started */
+.express-head {
   font-size: 3.2rem;
 }
-.express-head-description{
-font-size: 1.6rem;
-margin-top: 48px;
-opacity: 0.6;
-margin-bottom: 70px;
+.express-head-description {
+  font-size: 1.6rem;
+  margin-top: 48px;
+  opacity: 0.6;
+  margin-bottom: 70px;
 }
-.express-main{
+.express-main {
   width: 70%;
   display: block;
   margin-right: auto;
   margin-left: auto;
-
 }
-.img-express{
+.img-express {
   width: 50%;
 }
-.express-p-1{
+.express-p-1 {
   font-size: 1.5rem;
   opacity: 0.6;
 }
-.express-p{
+.express-p {
   margin-top: 10px;
   font-size: 1.5rem;
   opacity: 0.6;
 }
-.location-express-head{
+/* express-intro-ended */
+/* express location starrted */
+.location-express-head {
   font-size: 3rem;
   text-align: center;
   font-weight: 600 !important;
 }
-.location-express-div-main{
-  background-color: #ffffff0f;
+.location-express-div-main {
+  /* background-color: #ffffff0f; */
   font-size: 1.6rem;
   width: 70%;
   border-radius: 10px;
@@ -186,26 +188,25 @@ margin-bottom: 70px;
   margin-left: auto;
   margin-right: auto;
 }
-.location-express-div{
+.location-express-div {
   background-color: #ffffff0f;
   font-size: 1.6rem;
   width: 70%;
   border-radius: 10px;
 }
-.img-express-div{
+.img-express-div {
   width: 80%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 6px;
 }
-.express-p{
+.express-p {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.location-express-div-main-2{
-  background-color: #ffffff0f;
+.location-express-div-main-2 {
   font-size: 1.6rem;
   width: 40%;
   border-radius: 10px;
@@ -213,3 +214,81 @@ margin-bottom: 70px;
   margin-left: auto;
   margin-right: auto;
 }
+/* location express ended */
+/* village started */
+.village-franchise-head{
+  margin-top: 64px;
+  font-size: 3.2rem;
+  margin-bottom: 70px;
+}
+.village-main {
+  width: 70%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 72px;
+}
+.village-img{
+  width: 50%;
+}
+.village-description-div{
+  width: 50%;
+}
+.village-description-head{
+  font-size: 3.2rem;
+}
+.village-description{
+  font-size: 1.5rem;
+  opacity: 0.6;
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+/* village ended */
+/* footer start */
+.footer {
+  background-color: #ffffff0f;
+  background-image: url(/Assets/s.webp);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 15%;
+}
+.info {
+  width: 15%;
+  font-size: 1.45rem;
+  margin-top: 70px;
+  margin-bottom: 55px;
+}
+
+.logo-footer {
+  width: 50%;
+}
+.term-condition {
+  padding-top: 30px;
+  opacity: 0.4;
+}
+.details {
+  opacity: 0.6;
+  width: 100%;
+  text-align: left;
+}
+.site-links {
+  list-style: none;
+}
+.foot-li {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  opacity: 0.6;
+}
+.site-link-head {
+  font-size: 2rem;
+  padding-bottom: 23px;
+  font-family: 'Lora', serif;
+}
+.social-logo {
+  font-size: 2.7rem;
+  color: #ed1c24;
+}
+.downloading-icon {
+  display: block;
+}
+/* footer ended */

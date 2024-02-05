@@ -64,9 +64,9 @@ html {
   height: 50px;
   border-radius: 5px;
 }
-.title-div{
-    text-align: left;
-    width: 100%;
+.title-div {
+  text-align: left;
+  width: 100%;
 }
 /* .title-div {
   text-align: left;
@@ -80,19 +80,67 @@ sup {
   font-size: 1.4rem;
 }
 .form-head {
-    font-size: 3.2rem;
-    font-family: "Lora", serif;
-    text-align: center;
-    margin-top: 40px;
-  }
-select{
-    color: black;
+  font-size: 3.2rem;
+  font-family: "Lora", serif;
+  text-align: center;
+  margin-top: 40px;
 }
-option{
-    color: #000000;
+select {
+  color: black;
 }
-.btn-3{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+option {
+  color: #000000;
 }
+.btn-3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* footer start */
+.footer {
+  background-color: #ffffff0f;
+  background-image: url(/Assets/s.webp);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 15%;
+}
+.info {
+  width: 15%;
+  font-size: 1.45rem;
+  margin-top: 70px;
+  margin-bottom: 55px;
+}
+
+.logo-footer {
+  width: 50%;
+}
+.term-condition {
+  padding-top: 30px;
+  opacity: 0.4;
+}
+.details {
+  opacity: 0.6;
+  width: 100%;
+  text-align: left;
+}
+.site-links {
+  list-style: none;
+}
+.foot-li {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  opacity: 0.6;
+}
+.site-link-head {
+  font-size: 2rem;
+  padding-bottom: 23px;
+  font-family: "Lora", serif;
+}
+.social-logo {
+  font-size: 2.7rem;
+  color: #ed1c24;
+}
+.downloading-icon {
+  display: block;
+}
+/* footer ended */

@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+
+  /* border: 1px solid lightcyan; */
+}
+
+body {
+  background-color: #000000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* navbar started */
+.header {
+  align-content: space-between;
+  align-self: flex-end;
+}
+.nav-items {
+  font-size: 2rem;
+}
+
+.header-logo {
+  width: 165px;
+}
+#franchise-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+#order-btn {
+  background-color: #ed1c24;
+  border: 0px;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+
+/* navbar ended */
+.form-2 {
+  margin-top: 18px;
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+  width: 35.2%;
+  margin-bottom: 48px;
+}
+.inp-title {
+  /* padding-left: 90px; */
+  font-size: 1.4rem;
+}
+.inp-1 {
+  margin-top: 12px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  border-radius: 5px;
+}
+.title-div{
+    text-align: left;
+    width: 100%;
+}
+/* .title-div {
+  text-align: left;
+  width: 78.25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+sup {
+  color: #ed1c24;
+  font-size: 1.4rem;
+}
+.form-head {
+    font-size: 3.2rem;
+    font-family: "Lora", serif;
+    text-align: center;
+    margin-top: 40px;
+  }
+select{
+    color: black;
+}
+option{
+    color: #000000;
+}
+.btn-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -63,6 +63,8 @@ html {
   display: block;
   font-size: 1.6rem;
 }
+/* rating ended  */
+/* form started */
 .form-2 {
   margin-top: 18px;
 }
@@ -90,6 +92,7 @@ sup {
   color: #ed1c24;
   font-size: 1.4rem;
 }
+/* form ended */
 /* footer start */
 .footer {
   background-color: #ffffff0f;

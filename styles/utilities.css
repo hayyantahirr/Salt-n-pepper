@@ -74,9 +74,12 @@
 .pointer {
   cursor: pointer;
 }
-.weight-less{
+.weight-less {
   font-weight: 300;
 }
-.weight-more{
+.weight-more {
   font-weight: 600;
+}
+.opac {
+  opacity: 0.6;
 }

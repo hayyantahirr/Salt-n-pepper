@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+
+  /* border: 1px solid lightcyan; */
+}
+
+body {
+  background-color: #000000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* navbar started */
+.header {
+  align-content: space-between;
+  align-self: flex-end;
+}
+.nav-items {
+  font-size: 2rem;
+}
+
+.header-logo {
+  width: 165px;
+}
+#franchise-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+#order-btn {
+  background-color: #ed1c24;
+  border: 0px;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+
+/* navbar ended */
+/* form started */
+/* experience rating started */
+.main-form-div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  margin-bottom: 48px;
+}
+.form-head {
+  font-size: 3.2rem;
+  font-family: "Lora", serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.rating-label {
+  display: block;
+  font-size: 1.6rem;
+}
+.form-2 {
+  margin-top: 18px;
+}
+.inp-title {
+  /* padding-left: 90px; */
+  font-size: 1.4rem;
+}
+.inp-1 {
+  margin-top: 12px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 44px;
+  border-radius: 5px;
+}
+.title-div {
+  text-align: left;
+  width: 78.25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+sup {
+  color: #ed1c24;
+  font-size: 1.4rem;
+}
+/* footer start */
+.footer {
+  background-color: #ffffff0f;
+  background-image: url(/Assets/s.webp);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 15%;
+}
+.info {
+  width: 15%;
+  font-size: 1.45rem;
+  margin-top: 70px;
+  margin-bottom: 55px;
+}
+
+.logo-footer {
+  width: 50%;
+}
+.term-condition {
+  padding-top: 30px;
+  opacity: 0.4;
+}
+.details {
+  opacity: 0.6;
+  width: 100%;
+  text-align: left;
+}
+.site-links {
+  list-style: none;
+}
+.foot-li {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  opacity: 0.6;
+}
+.site-link-head {
+  font-size: 2rem;
+  padding-bottom: 23px;
+  font-family: "Lora", serif;
+}
+.social-logo {
+  font-size: 2.7rem;
+  color: #ed1c24;
+}
+.downloading-icon {
+  display: block;
+}
+/* footer ended */
